@@ -1,0 +1,13 @@
+<img src="../../../assets/amazon-logo.png" alt="">
+<div class="signin card">
+    <div class="signin_form ">
+        <h1>Sign-In</h1>
+        <label for="email">Email</label>
+        <input type="email" name="email" id="email"  [(ngModel)]="email">
+        <label for="password">Password</label>
+        <input type="password" name="password" id="password" [(ngModel)]="password">
+        <button (click)="signin()">Sign In</button>
+        <p>By continuing, you agree to <span> Amazon's Conditions</span> of Use and <span> Privacy Notice</span>.</p>
+        <p>New To Amazon? <a routerLink="/register">Register Here</a></p>
+    </div>
+</div>

@@ -1,0 +1,40 @@
+.card{
+    width: 400px;
+    height: 450px;
+    margin: 15px;
+}
+img{
+    width: 150px;
+    height: 50px;
+    align-self: center;
+    margin: 15px 0 0 700px;
+    filter: invert(1);
+    
+}
+.signin{
+    margin: 15px auto;
+}
+.signin_form{
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    margin: 15px;
+}
+button{
+    background: linear-gradient(to bottom,#f7dfa5,#f0c14b);
+    border: none;
+    height: 30px;
+}
+h1{
+    font-weight: 700;
+}
+label{
+    font-weight: 500;
+}
+.signin_form  h1, label, button, p{
+    margin-top: 15px;
+}
+a{
+    color: #2674fc;
+    font-weight: 400;
+}

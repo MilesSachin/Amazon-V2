@@ -1,0 +1,53 @@
+.main{
+    padding: 30px 0;
+    
+    background-color: #EAEDED;
+}
+.main_content{
+    width: 1000px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+img{
+    width: 100%;
+    height: 220px;
+}
+.card{
+    width: 300px;
+    height: 500px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    transition: 400ms ease-out;
+    margin: 15px;
+    border-radius: 10px;
+}
+.card:hover{
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.3);
+}
+.travel{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.travel > div{
+    margin: 2px;
+}
+.price{
+    background-color: #febd69;
+    color: #fff;
+    max-width: 100px;
+    height: 30px;
+    padding: 5px 10px;
+    border-radius: 20px 2px 20px 2px;
+}
+.card > a{
+    color: #0044BA;
+}
+.button{
+    background-color: #febd69;
+    border: none;
+    border-radius: 50px;
+    height: 30px;
+}

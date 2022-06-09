@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "title": "Apple iPhone 13 Pro Max (256GB) - Sierra Blue",
+        "desc": "A15 Bionic chip with 6-core CPU (2 performance and 4 efficiency cores), 5-core GPU, and 16-core Neural Engine",
+        "price": 129900,
+        "image": "https://m.media-amazon.com/images/I/61i8Vjb17SL._SX679_.jpg",
+        "ratings": "4.7/5"
+    },
+    {
+        "id": 2,
+        "title": "Acer Predator Helios 300 11th Gen Intel Core i9-11900H 15.6",
+        "desc": "Acer Predator Helios 300 11th Gen Intel Core i9-11900H 15.6'' (39.62cms) FHD IPS Gaming Laptop (16 GB/1TB SSD/Win 11 Home/6 GB Graphics/NVIDIA GeForce RTX 3060/360 Hz, Black, 2.3 kg) PH315-54",
+        "price": 144990,
+        "image": "https://m.media-amazon.com/images/I/71Xk9qt6IwL._SX679_.jpg",
+        "ratings": "5/5"
+    },
+    {
+        "id": 3,
+        "title": "Sennheiser HD 820 Wired Over The Ear Headphones Without Mic (Black)",
+        "desc": "Vivid, wide, transparent, natural. The sound field of the HD 820 is wide open. Which is not what you would expect at all from closed circumaural headphones. With the HD 820 you can explore and rediscover your music in absolute reference-class quality without intruding on the aural comfort zone of others. Thus, the HD 820 not only open up the sound field, but also new places and opportunities for you to enjoy your music.",
+        "price": 189990,
+        "image": "https://m.media-amazon.com/images/I/61WDbXoPQHL._SX522_.jpg",
+        "ratings": "4.3/5"
+    },
+    {
+        "id": 4,
+        "title": "Apple Watch Series 7 (GPS, 45mm)",
+        "desc": "Built-in GPS/GNSS/BeiDou, S7 with 64-bit dual-core processor, W3 Apple wireless chip, U1 Ultra Wideband chip, Barometric altimeter, Capacity 32GB, Blood oxygen sensor, Third-generation optical heart sensor, Electrical heart sensor, Certified IP6x dust resistant, Improved accelerometer up to 32 g‑forces, Improved gyroscope, Ambient light sensor, Always-On Retina LTPO OLED display with Force Touch (1000 nits), Digital Crown with haptic feedback, Second-generation speaker and mic, aluminium models have Ion-X front glass, Sapphire crystal and ceramic back, Wi-Fi 802.11b/g/n 2.4GHz, Bluetooth 5.0, Built-in rechargeable lithium-ion battery, Up to 18 hours of battery life, Water resistant 50 metres, watchOS 8",
+        "price": 41990,
+        "image": "https://m.media-amazon.com/images/I/71Tlukf9FTL._SX679_.jpg",
+        "ratings": "4.6/5"
+    },
+    {
+        "id": 5,
+        "title": "Sony Alpha ILCE-7RM4A Full-Frame 61.0MP Mirrorless Digital SLR Camera Body",
+        "desc": "61.0 MP 35 mm full-frame Exmor R CMOS sensor and BIONZ X image processing engine Standard ISO 100–32000 range Fast Hybrid AF with 567-point focal-plane phase-detection AF and 425-point contrast-detection AF High-speed continuous shooting of up to 10FPS27 with AF/AE tracking",
+        "price": 473635,
+        "image": "https://m.media-amazon.com/images/I/71cWQ3Yr8NL._SX522_.jpg",
+        "ratings": "4.7/5"
+    },
+    {
+        "id": 6,
+        "title": "SWANS Jam&Lab Floor Standing Home Theater System 6 with SUB- 10",
+        "desc": "2 Floor Standing speakers, 1 Centre and 2 Left Right Speaker, Subwoofe Compatible with CD player, DVD player, Mp3 player and mobile phones Superior quality of sound. Power rated at 10-160 W With Subwoofer SUB-10",
+        "price": 102896,
+        "image": "https://m.media-amazon.com/images/I/61TrXMSAESL._SX522_.jpg",
+        "ratings": "NA"
+    },
+    {
+        "id": 7,
+        "title": "Samsung Galaxy S22 Ultra 5G",
+        "desc": "The first Galaxy S with embedded S Pen. Write comfortably like pen on paper, turn quick notes into legible text and use Air Actions to control your phone remotely. Improved latency in Samsung Notes makes every pen stroke feel as natural as ink on paper — and you can convert those hastily written ideas into legible text.",
+        "price": 118999,
+        "image": "https://m.media-amazon.com/images/I/71J8tz0UeJL._SX679_.jpg",
+        "ratings": "4.4/5"
+    },
+    {
+        "id": 8,
+        "title": "2021 Apple iMac with 4.5K Retina Display",
+        "desc": "Immersive 60.96 cm (24-inch) 4.5K Retina display with P3 wide color gamut and 500 nits of brightness Apple M1 chip delivers powerful performance with 8-core CPU and 8-core GPU Strikingly thin 11.5 mm design in vibrant colors 1080p FaceTime HD camera with M1 ISP for amazing video quality Studio-quality three-mic array for crystal clear calls and voice recordings Six-speaker sound system for a remarkably robust and high-quality audio experience Up to 512GB of ultrafast SSD storage",
+        "price": 141990,
+        "image": "https://m.media-amazon.com/images/I/61LNnZPoKPS._SX679_.jpg",
+        "ratings": "4.5/5"
+    },
+    {
+        "id": 9,
+        "title": "Diesel Men's Groovy",
+        "desc": "Sole: Rubber, Closure: Lace-Up, Shoe Width: M mens_us",
+        "price": 21164,
+        "image": "https://m.media-amazon.com/images/I/71+W0u8m2ML._UY695_.jpg",
+        "ratings": "5/5"
+    },
+    {
+        "id": 10,
+        "title": "Diesel Overflow Analog Blue Dial Men's Watch",
+        "desc": "Case size: 49mm; Band size: 24mm; quartz movement with 3-hand date chronograph display; mineral crystal face; Silver plated stainless steel case; blue dial with date window",
+        "price": 8995,
+        "image": "https://m.media-amazon.com/images/I/61TAWtBQKoL._UX522_.jpg",
+        "ratings": "5/5"
+    },
+    {
+        "id": 10,
+        "title": "Xbox One Series S",
+        "desc": "Go all-digital and enjoy disc-free, next-gen gaming with the smallest Xbox console ever made, Xbox game Pass ultimate includes over 1 high-quality games, online multiplayer, and an EA play membership for one low monthly price (membership sold separately)",
+        "price": 31890,
+        "image": "https://m.media-amazon.com/images/I/71NBQ2a52CL._SX679_.jpg",
+        "ratings": "5/5"
+    },
+    {
+        "id": 10,
+        "title": "Lloyd 1.0 Ton 3 Star Split AC",
+        "desc": "Cools Even @ 48 ˚C Blue Fin Condenser Auto Restart Self Diagnosis Function Environment Friendly Refrigerant Hidden LED Display Clean Air Filter Strong Dehumidification",
+        "price": 27999,
+        "image": "https://m.media-amazon.com/images/I/61krx-94ONL._SX679_.jpg",
+        "ratings": "3.8/5"
+    }
+]

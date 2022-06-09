@@ -1,0 +1,14 @@
+<img src="../../../assets/amazon-logo.png" alt="">
+<div class="signin card">
+    <div class="signin_form ">
+        <h1>Sign-In</h1>
+        <label for="email">Email</label>
+        <input type="email" name="email" id="email" [(ngModel)]="email">
+        <label for="password">Password</label>
+        <input type="password" name="password" id="password" [(ngModel)]="password">
+        <button (click)="register()">Continue</button>
+        <p>We will send you a text to verify your phone.
+            Message and Data rates may apply.</p>
+        <p>Already Have Account? <a routerLink="/auth">Sign-In</a></p>
+    </div>
+</div>
